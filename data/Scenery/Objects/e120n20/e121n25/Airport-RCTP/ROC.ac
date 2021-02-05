@@ -1,0 +1,28 @@
+AC3Db
+MATERIAL "default" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0.08 0.08 0.08 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "材料" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0.08 0.08 0.08 spec 0.2 0.2 0.2 shi 128 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "blah"
+texture "ROC.png"
+numvert 4
+5.961804 3.957624 -0.498286
+-0.002520 -0.000000 -0.498286
+5.961804 -0.000000 -0.498286
+-0.002520 3.957624 -0.498286
+numsurf 2
+SURF 0x30
+mat 1
+refs 3
+0 0.9936 0.9894
+1 -0.0004 0.0000
+2 0.9936 0.0000
+SURF 0x30
+mat 1
+refs 3
+1 -0.0004 0.0000
+0 0.9936 0.9894
+3 -0.0004 0.9894
+kids 0
+
