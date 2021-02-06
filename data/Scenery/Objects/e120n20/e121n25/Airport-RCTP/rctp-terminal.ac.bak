@@ -10,7 +10,7 @@ OBJECT world
 kids 4523
 OBJECT poly
 name "Cube.002"
-loc -2762.32 -0.968023 -1051.39
+loc -2762.32 -2.57764 -1051.57
 texture "redwhite_concrete_20m.png"
 crease 45.000000
 numvert 872
